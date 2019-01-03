@@ -1,0 +1,6 @@
+{
+    "require": {
+        "opentracing/opentracing": "^0.3.2",
+        "lightstep/tracer": "^1.0"
+    }
+}
